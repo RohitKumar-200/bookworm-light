@@ -6,8 +6,6 @@ theme = "bookworm-light"
 paginate = "5"
 # post excerpt
 summaryLength = "20"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 
@@ -76,6 +74,8 @@ color_primary = "#01AD9F"
 logo = "images/logo.png"
 logo_width = "200px"
 favicon = "images/favicon.png"
+# Google Analytics
+gTag = "" # example gTag = "UA-123-45"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
